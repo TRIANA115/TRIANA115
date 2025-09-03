@@ -1,7 +1,7 @@
 <!-- Perfil README con animaciones verdes y negras estilo hacker -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=console.log('Hola%2C+soy+Brandon+Gomez');Desarrollador+Full+Stack+%F0%9F%9A%80;Code+is+my+Art;Hackeando+el+universo+digital..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=console.log('Hola%2C+soy+TRIANA+115');Desarrollador+Full+Stack+%F0%9F%9A%80;Code+is+my+Art;Hackeando+el+universo+digital..." alt="Typing SVG" />
 </p>
 
 ---
@@ -128,19 +128,7 @@ diff
 
 ---
 
-## 🟢 Contacto
 
-<p align="center">
-  <a href="mailto:brandon@ejemplo.com">
-    <img src="https://img.shields.io/badge/email-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" />
-  </a>
-  <a href="https://linkedin.com/in/TuPerfilLinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" />
-  </a>
-  <a href="https://twitter.com/TuUsuarioAzul">
-    <img src="https://img.shields.io/badge/twitter-00FF41?style=for-the-badge&logo=twitter&logoColor=black&labelColor=000000" />
-  </a>
-</p>
 
 ---
 
