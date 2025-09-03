@@ -23,10 +23,6 @@ diff
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🔥+Bienvenido+a+mi+Mundo+Backend+con+NestJS+%F0%9F%94%AE;💻+Fullstack+Developer+%7C+Matrix+Mode+On" />
-</h1>
-
 <div align="center">
 
 <table>
