@@ -1,7 +1,7 @@
 <!-- Perfil README con animaciones verdes y negras estilo hacker -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=console.log('Hola%2C+soy+Brandon+Gomez');Desarrollador+Full+Stack+%F0%9F%9A%80;Code+is+my+Art;Hackeando+el+universo+digital..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=console.log('Hola%2C+soy+TRIANA+115');Desarrollador+Full+Stack+%F0%9F%9A%80;Code+is+my+Art;Hackeando+el+universo+digital..." alt="Typing SVG" />
 </p>
 
 ---
@@ -66,15 +66,6 @@ diff
 
 <!-- Presentación con dos columnas alineadas sin bordes -->
 <table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none; vertical-align: top;">
-      <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=00FF41&background=00000000&width=600&lines=Laravel+%F0%9F%91%8D;PHP+%F0%9F%9A%80;Python+%F0%9F%90%8D;React+%E2%9C%A8;Node.js+%F0%9F%92%BB;NestJS+%F0%9F%9A%A8;Next.js+%F0%9F%9A%80;Prisma+%F0%9F%8C%8D;PostgreSQL+%F0%9F%92%BE;MySQL+%F0%9F%93%8A;MongoDB+%F0%9F%92%A1;Tailwind+%F0%9F%92%A8;Bootstrap+%F0%9F%92%96;CSS+Nativo+%F0%9F%96%8B%EF%B8%8F;Docker+%F0%9F%A7%A1" alt="Stack Animado" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=123Brandongomez&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
-      </p>
-    </td>
     <td style="border: none; vertical-align: top;">
       <h1 align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpoZHQxOWdkenMxNHl5eGsxNzRxYXcxbzR5M2pmZGdjYzYyeHM0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Hacker GIF" />
@@ -128,19 +119,7 @@ diff
 
 ---
 
-## 🟢 Contacto
 
-<p align="center">
-  <a href="mailto:brandon@ejemplo.com">
-    <img src="https://img.shields.io/badge/email-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" />
-  </a>
-  <a href="https://linkedin.com/in/TuPerfilLinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" />
-  </a>
-  <a href="https://twitter.com/TuUsuarioAzul">
-    <img src="https://img.shields.io/badge/twitter-00FF41?style=for-the-badge&logo=twitter&logoColor=black&labelColor=000000" />
-  </a>
-</p>
 
 ---
 
