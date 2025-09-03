@@ -64,19 +64,7 @@ diff
   </tr>
 </table>
 
-<!-- Presentación con dos columnas alineadas sin bordes -->
-<table align="center" style="border: none; border-collapse: collapse;">
-    <td style="border: none; vertical-align: top;">
-      <h1 align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpoZHQxOWdkenMxNHl5eGsxNzRxYXcxbzR5M2pmZGdjYzYyeHM0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Hacker GIF" />
-      </h1>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/>
-</p>
+---
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🔥+Bienvenido+a+mi+Mundo+Backend+con+NestJS+%F0%9F%94%AE;💻+Fullstack+Developer+%7C+Matrix+Mode+On" />
@@ -116,10 +104,6 @@ diff
 </table>
 
 </div>
-
----
-
-
 
 ---
 
