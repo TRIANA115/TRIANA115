@@ -1,16 +1,3 @@
-<!-- Perfil README con animaciones verdes y negras estilo hacker -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=console.log('Hola%2C+soy+TRIANA+115');Desarrollador+Full+Stack+%F0%9F%9A%80;Code+is+my+Art;Hackeando+el+universo+digital..." alt="Typing SVG" />
-</p>
-
----
-
-<!-- Animación Snake moviéndose (verde y negro) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" alt="Snake Animation" />
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mí
@@ -65,3 +52,16 @@ diff
 </p>
 
 ---
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=console.log('Hola%2C+soy+TRIANA+115');Desarrollador+Full+Stack+%F0%9F%9A%80;Code+is+my+Art;Hackeando+el+universo+digital..." alt="Typing SVG" />
+</p>
+
+---
+
+<!-- Animación Snake moviéndose (verde y negro) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" alt="Snake Animation" />
+</p>
+
