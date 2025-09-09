@@ -23,16 +23,16 @@ diff
   <tr>
     <td><img src="https://img.shields.io/badge/-Frontend-00FF41?style=for-the-badge" /></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,angular" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,angular" />
     </td>
-    <td><b style="color:#00FF41;">React, Next.js, Astro, Angular</b></td>
+    <td><b style="color:#00FF41;">JavaScript, TypeScript, React, Next.js, Astro, Angular</b></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-CSS-00FF41?style=for-the-badge" /></td>
     <td>
       <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css" />
     </td>
-    <td><b style="color:#00FF41;">Tailwind, Bootstrap, CSS Nativo, HeroUI</b></td>
+    <td><b style="color:#00FF41;">Tailwind, Bootstrap, CSS Nativo, HeroUI, Radix UI</b></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-Bases%20de%20Datos-00FF41?style=for-the-badge" /></td>
