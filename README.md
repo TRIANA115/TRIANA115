@@ -30,9 +30,9 @@ diff
   <tr>
     <td><img src="https://img.shields.io/badge/-CSS-00FF41?style=for-the-badge" /></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css" />
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,chakra" />
     </td>
-    <td><b style="color:#00FF41;">Tailwind, Bootstrap, CSS Nativo, HeroUI, Radix UI</b></td>
+    <td><b style="color:#00FF41;">Tailwind, Bootstrap, CSS Nativo, HeroUI, Radix UI, Bulma, DaisyUI, Chakra UI, Mantine</b></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-Bases%20de%20Datos-00FF41?style=for-the-badge" /></td>
@@ -47,6 +47,13 @@ diff
       <img src="https://skillicons.dev/icons?i=docker" />
     </td>
     <td><b style="color:#00FF41;">Docker</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Móvil-00FF41?style=for-the-badge" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dart,flutter" />
+    </td>
+    <td><b style="color:#00FF41;">Dart, Flutter</b></td>
   </tr>
 </table>
 
