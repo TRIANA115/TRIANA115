@@ -42,7 +42,7 @@ diff
     <td><b style="color:#00FF41;">MySQL, PostgreSQL, MongoDB</b></td>
   </tr>
   <tr>
-    <td><img title="DevOps"/></td>
+    <td><h1 title="DevOps"></h1></td>
     <td>
       <img src="https://skillicons.dev/icons?i=docker" />
     </td>
