@@ -30,7 +30,7 @@ diff
   <tr>
     <td><img src="https://img.shields.io/badge/-CSS-00FF41?style=for-the-badge" /></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,chakra" />
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,chakra,materialui" />
     </td>
     <td><b style="color:#00FF41;">Tailwind, Bootstrap, CSS Nativo, HeroUI, Radix UI, Bulma, DaisyUI, Chakra UI, Mantine</b></td>
   </tr>
