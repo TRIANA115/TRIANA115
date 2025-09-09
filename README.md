@@ -21,11 +21,18 @@ diff
     <td><b style="color:#00FF41;">Laravel, PHP, Python, Node.js, NestJS, Prisma</b></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-Backend-00FF41?style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/-Frontend-00FF41?style=for-the-badge" /></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,css" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,angular" />
     </td>
-    <td><b style="color:#00FF41;">React, Next.js, Tailwind, Bootstrap, CSS Nativo</b></td>
+    <td><b style="color:#00FF41;">React, Next.js, Astro, Angular</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-CSS-00FF41?style=for-the-badge" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css" />
+    </td>
+    <td><b style="color:#00FF41;">Tailwind, Bootstrap, CSS Nativo, HeroUI</b></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-Bases%20de%20Datos-00FF41?style=for-the-badge" /></td>
