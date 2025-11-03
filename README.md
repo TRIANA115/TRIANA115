@@ -7,13 +7,27 @@
 
 ## 👨‍💻 Sobre mí
 
-<p align="justify">
-Soy un apasionado por la tecnología con experiencia en mantenimiento de equipos de cómputo, configuración de redes, gestión de cámaras de seguridad y administración de routers. Cuento con habilidades en desarrollo Full Stack, manejo de bases de datos y despliegues en Docker.
+<div align="center">
+
+<table border="0">
+<tr>
+<td width="100%" align="center">
+
+<h3>🚀 Apasionado por la Tecnología</h3>
+
+<p align="justify" style="font-size: 16px;">
+💻 Cuento con experiencia en <b>mantenimiento de equipos de cómputo</b>, <b>configuración de redes</b>, <b>gestión de cámaras de seguridad</b> y <b>administración de routers</b>. Mis habilidades abarcan el <b>desarrollo Full Stack</b>, <b>manejo de bases de datos</b> y <b>despliegues en Docker</b>.
 </p>
 
-<p align="justify">
-Soy entusiasta de Linux y sus distribuciones enfocadas en hacking ético y ciberseguridad, lo que me permite explorar y potenciar mis habilidades técnicas con una mentalidad hacker. Me considero una persona proactiva, adaptable y con rápida capacidad de aprendizaje, siempre motivado a aportar valor en proyectos tecnológicos.
+<p align="justify" style="font-size: 16px;">
+🐧 Soy entusiasta de <b>Linux</b> y sus distribuciones enfocadas en <b>hacking ético</b> y <b>ciberseguridad</b>, lo que me permite explorar y potenciar mis habilidades técnicas con una mentalidad hacker. Me considero una persona <b>proactiva</b>, <b>adaptable</b> y con <b>rápida capacidad de aprendizaje</b>, siempre motivado a aportar valor en proyectos tecnológicos.
 </p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -33,15 +47,7 @@ Soy entusiasta de Linux y sus distribuciones enfocadas en hacking ético y ciber
 
 ### 🎭 CSS & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/HeroUI-ffffff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,materialui&theme=dark" />
 </p>
 
 ### 🗄️ Bases de Datos
