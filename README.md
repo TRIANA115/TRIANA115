@@ -1,21 +1,23 @@
----
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="300" alt="Right Side GIF" />
-  <img src="https://camo.githubusercontent.com/9b2da5487c681aba581bb1bcceb4804f9f928aeb13885d04a87a50b404bc62ef/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" width="300" alt="Busy Cute GIF" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="400" alt="Right Side GIF" />
+  <img src="https://camo.githubusercontent.com/9b2da5487c681aba581bb1bcceb4804f9f928aeb13885d04a87a50b404bc62ef/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" width="400" alt="Busy Cute GIF" />
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-diff
-+ Full Stack Developer - Apasionado por crear soluciones innovadoras.
-! Disfruto aprender y experimentar con nuevas tecnologías.
-# Siempre con actitud hacker (ética) y un toque creativo.
+<p align="justify">
+Soy un apasionado por la tecnología con experiencia en mantenimiento de equipos de cómputo, configuración de redes, gestión de cámaras de seguridad y administración de routers. Cuento con habilidades en desarrollo Full Stack, manejo de bases de datos y despliegues en Docker.
+</p>
 
+<p align="justify">
+Soy entusiasta de Linux y sus distribuciones enfocadas en hacking ético y ciberseguridad, lo que me permite explorar y potenciar mis habilidades técnicas con una mentalidad hacker. Me considero una persona proactiva, adaptable y con rápida capacidad de aprendizaje, siempre motivado a aportar valor en proyectos tecnológicos.
+</p>
 
 ---
+
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
