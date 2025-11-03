@@ -15,11 +15,11 @@
 
 <h3>🚀 Apasionado por la Tecnología</h3>
 
-<p align="justify" style="font-size: 16px;">
+<p align="justify" style="font-size: 20px;">
 💻 Cuento con experiencia en <b>mantenimiento de equipos de cómputo</b>, <b>configuración de redes</b>, <b>gestión de cámaras de seguridad</b> y <b>administración de routers</b>. Mis habilidades abarcan el <b>desarrollo Full Stack</b>, <b>manejo de bases de datos</b> y <b>despliegues en Docker</b>.
 </p>
 
-<p align="justify" style="font-size: 16px;">
+<p align="justify" style="font-size: 20px;">
 🐧 Soy entusiasta de <b>Linux</b> y sus distribuciones enfocadas en <b>hacking ético</b> y <b>ciberseguridad</b>, lo que me permite explorar y potenciar mis habilidades técnicas con una mentalidad hacker. Me considero una persona <b>proactiva</b>, <b>adaptable</b> y con <b>rápida capacidad de aprendizaje</b>, siempre motivado a aportar valor en proyectos tecnológicos.
 </p>
 
