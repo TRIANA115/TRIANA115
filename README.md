@@ -1,5 +1,11 @@
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="300" alt="Right Side GIF" />
+</div>
+
+---
+
 ## 👨‍💻 Sobre mí
 
 diff
