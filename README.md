@@ -22,33 +22,48 @@ Soy entusiasta de Linux y sus distribuciones enfocadas en hacking ético y ciber
 <div align="center">
 
 ### 💻 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,nodejs,nestjs,prisma&theme=dark" />
+<p align="left" style="margin-left: 20%;">
+  <img src="https://skillicons.dev/icons?i=laravel" width="40" /> <b>Laravel</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="40" /> <b>PHP</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="40" /> <b>Python</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" /> <b>Node.js</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" width="40" /> <b>NestJS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" width="40" /> <b>Prisma</b>
 </p>
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,angular&theme=dark" />
+<p align="left" style="margin-left: 20%;">
+  <img src="https://skillicons.dev/icons?i=js" width="40" /> <b>JavaScript</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="40" /> <b>TypeScript</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40" /> <b>React</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" /> <b>Next.js</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=astro" width="40" /> <b>Astro</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" width="40" /> <b>Angular</b>
 </p>
 
 ### 🎭 CSS & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css&theme=dark" />
+<p align="left" style="margin-left: 20%;">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> <b>Tailwind CSS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /> <b>Bootstrap</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40" /> <b>CSS</b>
 </p>
 
 ### 🗄️ Bases de Datos
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+<p align="left" style="margin-left: 20%;">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" /> <b>MySQL</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" /> <b>PostgreSQL</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" /> <b>MongoDB</b>
 </p>
 
 ### 🐳 DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+<p align="left" style="margin-left: 20%;">
+  <img src="https://skillicons.dev/icons?i=docker" width="40" /> <b>Docker</b>
 </p>
 
 ### 📱 Desarrollo Móvil
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" />
+<p align="left" style="margin-left: 20%;">
+  <img src="https://skillicons.dev/icons?i=dart" width="40" /> <b>Dart</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" width="40" /> <b>Flutter</b>
 </p>
 
 </div>
