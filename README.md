@@ -21,50 +21,42 @@ Soy entusiasta de Linux y sus distribuciones enfocadas en hacking ético y ciber
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Backend-00FF41?style=for-the-badge" /></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=laravel,php,python,nodejs,nestjs,prisma" />
-    </td>
-    <td><b style="color:#00FF41;">Laravel, PHP, Python, Node.js, NestJS, Prisma</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Frontend-00FF41?style=for-the-badge" /></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,angular" />
-    </td>
-    <td><b style="color:#00FF41;">JavaScript, TypeScript, React, Next.js, Astro, Angular</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-CSS-00FF41?style=for-the-badge" /></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,chakra,materialui" />
-    </td>
-    <td><b style="color:#00FF41;">Tailwind, Bootstrap, CSS Nativo, HeroUI, Radix UI, Bulma, DaisyUI, Chakra UI, Mantine</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Bases%20de%20Datos-00FF41?style=for-the-badge" /></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-    </td>
-    <td><b style="color:#00FF41;">MySQL, PostgreSQL, MongoDB</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-DevOps-00FF41?style=for-the-badge" /></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker" />
-    </td>
-    <td><b style="color:#00FF41;">Docker</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Móvil-00FF41?style=for-the-badge" /></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=dart,flutter" />
-    </td>
-    <td><b style="color:#00FF41;">Dart, Flutter</b></td>
-  </tr>
-</table>
+### 💻 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,python,nodejs,nestjs,prisma&theme=dark" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,angular&theme=dark" />
+</p>
+
+### 🎭 CSS & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/HeroUI-00FF41?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Radix_UI-00FF41?style=for-the-badge&logo=radix-ui&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bulma-00FF41?style=for-the-badge&logo=bulma&logoColor=black" />
+  <img src="https://img.shields.io/badge/DaisyUI-00FF41?style=for-the-badge&logo=daisyui&logoColor=black" />
+  <img src="https://img.shields.io/badge/Chakra_UI-00FF41?style=for-the-badge&logo=chakraui&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mantine-00FF41?style=for-the-badge&logo=mantine&logoColor=black" />
+</p>
+
+### 🗄️ Bases de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+</p>
+
+### 🐳 DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+</p>
+
+### 📱 Desarrollo Móvil
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" />
+</p>
 
 </div>
 
