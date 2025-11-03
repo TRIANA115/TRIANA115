@@ -34,13 +34,6 @@ Soy entusiasta de Linux y sus distribuciones enfocadas en hacking ético y ciber
 ### 🎭 CSS & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css&theme=dark" />
-  <br/>
-  <img src="https://img.shields.io/badge/HeroUI-00FF41?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Radix_UI-00FF41?style=for-the-badge&logo=radix-ui&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bulma-00FF41?style=for-the-badge&logo=bulma&logoColor=black" />
-  <img src="https://img.shields.io/badge/DaisyUI-00FF41?style=for-the-badge&logo=daisyui&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chakra_UI-00FF41?style=for-the-badge&logo=chakraui&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mantine-00FF41?style=for-the-badge&logo=mantine&logoColor=black" />
 </p>
 
 ### 🗄️ Bases de Datos
