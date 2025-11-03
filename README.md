@@ -23,12 +23,12 @@ Soy entusiasta de Linux y sus distribuciones enfocadas en hacking ético y ciber
 
 ### 💻 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,nodejs,nestjs,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,python,fastapi,nodejs,nestjs,prisma,cs,dotnet,graphql&theme=dark" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,angular&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,angular,html&theme=dark" />
 </p>
 
 ### 🎭 CSS & Frameworks
@@ -43,7 +43,7 @@ Soy entusiasta de Linux y sus distribuciones enfocadas en hacking ético y ciber
 
 ### 🐳 DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,ubuntu,vercel,netlify&theme=dark" />
 </p>
 
 ### 📱 Desarrollo Móvil
