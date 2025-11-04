@@ -35,6 +35,20 @@
 
 ---
 
+## 💼 Mi Portafolio
+
+<div align="center">
+  <a href="https://portafolio-t115.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black" alt="Portafolio" />
+  </a>
+  <br/>
+  <p style="font-size: 18px;">
+    🌐 <b>Visita mi portafolio:</b> <a href="https://portafolio-t115.vercel.app/" target="_blank">https://portafolio-t115.vercel.app/</a>
+  </p>
+</div>
+
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
