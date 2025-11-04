@@ -17,16 +17,6 @@
 <tr>
 <td width="100%" align="center" style="border: 3px solid; border-image: linear-gradient(90deg, #00FF41, #00D4FF, #FF00FF, #FFD700, #00FF41) 1; animation: borderAnimation 3s linear infinite;">
 
-<style>
-@keyframes borderAnimation {
-  0% { border-image-source: linear-gradient(90deg, #00FF41, #00D4FF, #FF00FF, #FFD700); }
-  25% { border-image-source: linear-gradient(180deg, #00D4FF, #FF00FF, #FFD700, #00FF41); }
-  50% { border-image-source: linear-gradient(270deg, #FF00FF, #FFD700, #00FF41, #00D4FF); }
-  75% { border-image-source: linear-gradient(360deg, #FFD700, #00FF41, #00D4FF, #FF00FF); }
-  100% { border-image-source: linear-gradient(90deg, #00FF41, #00D4FF, #FF00FF, #FFD700); }
-}
-</style>
-
 <h3>🚀 Apasionado por la Tecnología</h3>
 
 <p align="justify" style="font-size: 80px;">
